@@ -1,0 +1,11 @@
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.327222 37.817806 315.3 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.319167 37.823333 251.94 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.318333 37.8225 313.66 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.304444 37.830833 179.24 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.290556 37.791389 249.58 180
+OBJECT_SHARED Models/Airport/kmtn-modular-hangar.ac -96.28973295 37.85268048 367.16 169.1
+OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.ac -96.28967269 37.85047703 365.49 84
+OBJECT_SHARED Models/Airport/hanger-50fx50f-blue-01.xml -96.29009295 37.85210919 367.17 348
+OBJECT_SHARED Models/Airport/hanger-40fx30f-02.xml -96.28994085 37.85061493 365.48 352
+OBJECT_SHARED Models/Airport/hanger-40fx30f-02.xml -96.28956617 37.85230374 367.14 80
+OBJECT_SHARED Models/Airport/hanger-t-single-white-02.xml -96.28974634 37.85238849 367.22 168.5

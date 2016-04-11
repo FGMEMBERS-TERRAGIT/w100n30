@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>ABIATower.ac</path>
+
+ <animation>
+  <name>reds-on</name>
+  <object-name>clearance</object-name>
+ </animation>
+ <animation>
+  <name>reds-off</name>
+  <object-name>clearance</object-name>
+ </animation>
+
+ <animation>
+  <type>select</type>
+  <object-name>reds-on</object-name>
+  <object-name>reds-off</object-name>
+  <object-name>strongbeam-21</object-name>
+  <object-name>dimbeam-22</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+ <enable-hot type="bool">false</enable-hot>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>reds-on</object-name>
+  <object-name>reds-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+</PropertyList>
