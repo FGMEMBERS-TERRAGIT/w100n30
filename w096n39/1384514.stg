@@ -1,3 +1,15 @@
+# osm2city_Douglas
+# do not edit below this line
+# Last Written 12/01/14 19:57:28
+#
+OBJECT_STATIC Douglascity0620.xml -95.44414 39.00426 337.83 0
+OBJECT_STATIC Douglascity0822.xml -95.39804 39.04029 294.30 0
+OBJECT_STATIC Douglascity0922.xml -95.37498 39.04029 314.83 0
+OBJECT_STATIC Douglascity1220.xml -95.30582 39.00426 301.76 0
+OBJECT_STATIC Douglascity1320.xml -95.28277 39.00426 259.67 0
+OBJECT_STATIC Douglascity1321.xml -95.28277 39.02228 261.56 0
+OBJECT_STATIC Douglascity1420.xml -95.25971 39.00426 271.89 0
+# END osm2city_Douglas
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.485556 39.018611 220.68 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.4635 39.112861 203.81 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.271111 39.004167 163.41 180

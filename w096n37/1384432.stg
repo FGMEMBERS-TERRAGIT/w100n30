@@ -1,1 +1,7 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.9475 37.794444 188.53 180
+# osm2city_Greenwood
+# do not edit below this line
+# Last Written 03/02/15 01:12:55
+#
+OBJECT_STATIC Greenwoodcity5933.xml -95.81825 37.81092 296.11 0
+# END osm2city_Greenwood

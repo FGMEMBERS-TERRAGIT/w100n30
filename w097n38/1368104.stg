@@ -1,3 +1,11 @@
+# osm2city_Lyon
+# do not edit below this line
+# Last Written 12/01/14 19:35:57
+#
+OBJECT_STATIC Lyoncity2948.xml -96.94744 38.66726 411.60 0
+OBJECT_STATIC Lyoncity2949.xml -96.94744 38.68528 408.34 0
+OBJECT_STATIC Lyoncity3048.xml -96.92453 38.66726 421.85 0
+# END osm2city_Lyon
 OBJECT_SHARED Models/Airport/ndb.ac -96.811122 38.692786 449.58 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.966111 38.637778 322.84 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.95875 38.675083 317.33 180

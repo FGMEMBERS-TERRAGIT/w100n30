@@ -1,3 +1,13 @@
+# osm2city_Lyon
+# do not edit below this line
+# Last Written 12/01/14 19:35:57
+#
+OBJECT_STATIC Lyoncity6134.xml -96.21428 38.41502 355.33 0
+OBJECT_STATIC Lyoncity6233.xml -96.19137 38.39700 346.48 0
+OBJECT_STATIC Lyoncity6234.xml -96.19137 38.41502 357.06 0
+OBJECT_STATIC Lyoncity6333.xml -96.16846 38.39700 346.39 0
+OBJECT_STATIC Lyoncity6334.xml -96.16846 38.41502 341.38 0
+# END osm2city_Lyon
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.237306 38.405972 267.28 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.236111 38.409444 286.42 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.225278 38.409444 245.2 180
