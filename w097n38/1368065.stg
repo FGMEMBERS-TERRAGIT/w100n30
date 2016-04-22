@@ -1,3 +1,9 @@
+# osm2city_Butler
+# do not edit below this line
+# Last Written 03/02/15 17:31:00
+#
+OBJECT_STATIC Butlercity3844.xml -96.64499 38.04779 447.36 0
+# END osm2city_Butler
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.695 38.008333 307.26 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.642778 38.035833 349.3 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.638611 38.049444 297.53 180

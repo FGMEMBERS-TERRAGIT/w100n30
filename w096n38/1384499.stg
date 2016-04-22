@@ -1,3 +1,9 @@
+# osm2city_Douglas
+# do not edit below this line
+# Last Written 12/01/14 19:57:28
+#
+OBJECT_STATIC Douglascity1607.xml -95.21361 38.77006 336.44 0
+# END osm2city_Douglas
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.204417 38.78275 192.3 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.249905 38.817378 322.07 3.47
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.241692 38.817891 335.34 4.61

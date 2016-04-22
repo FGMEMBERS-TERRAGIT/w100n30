@@ -1,2 +1,8 @@
+# osm2city_Sedgwick
+# do not edit below this line
+# Last Written 12/01/14 18:29:44
+#
+OBJECT_STATIC Sedgwickcity5779.xml -97.22502 37.76368 431.28 0
+# END osm2city_Sedgwick
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.231944 37.751111 263.86 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.231389 37.754 272.86 180

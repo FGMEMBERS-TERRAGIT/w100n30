@@ -1,3 +1,13 @@
+# osm2city_Shawnee
+# do not edit below this line
+# Last Written 12/01/14 20:09:21
+#
+OBJECT_STATIC Shawneecity1226.xml -95.83365 38.90364 327.63 0
+OBJECT_STATIC Shawneecity1326.xml -95.81055 38.90364 319.34 0
+OBJECT_STATIC Shawneecity1327.xml -95.81055 38.92165 333.71 0
+OBJECT_STATIC Shawneecity1431.xml -95.78745 38.99372 322.55 0
+OBJECT_STATIC Shawneecity1531.xml -95.76435 38.99372 317.19 0
+# END osm2city_Shawnee
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.867778 38.962778 295.18 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.815528 38.913889 232.83 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.758056 38.970278 206.69 180
