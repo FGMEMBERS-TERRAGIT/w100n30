@@ -1,0 +1,115 @@
+# osm2city_Sedgwick
+# do not edit below this line
+# Last Written 12/01/14 18:29:44
+#
+OBJECT_STATIC Sedgwickcity5672.xml -97.24769 37.63755 421.37 0
+OBJECT_STATIC Sedgwickcity5673.xml -97.24769 37.65557 418.00 0
+OBJECT_STATIC Sedgwickcity5674.xml -97.24769 37.67359 413.60 0
+OBJECT_STATIC Sedgwickcity5675.xml -97.24769 37.69161 414.56 0
+OBJECT_STATIC Sedgwickcity5678.xml -97.24769 37.74566 426.99 0
+OBJECT_STATIC Sedgwickcity5773.xml -97.22502 37.65557 424.16 0
+OBJECT_STATIC Sedgwickcity5774.xml -97.22502 37.67359 412.76 0
+OBJECT_STATIC Sedgwickcity5775.xml -97.22502 37.69161 421.12 0
+OBJECT_STATIC Sedgwickcity5776.xml -97.22502 37.70963 419.00 0
+OBJECT_STATIC Sedgwickcity5777.xml -97.22502 37.72764 435.74 0
+OBJECT_STATIC Sedgwickcity5778.xml -97.22502 37.74566 435.17 0
+OBJECT_STATIC Sedgwickcity5874.xml -97.20234 37.67359 415.44 0
+OBJECT_STATIC Sedgwickcity5875.xml -97.20234 37.69161 420.52 0
+OBJECT_STATIC Sedgwickcity5876.xml -97.20234 37.70963 425.50 0
+OBJECT_STATIC Sedgwickcity5877.xml -97.20234 37.72764 421.22 0
+# END osm2city_Sedgwick
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.246667 37.713333 291.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.245722 37.695444 239.21 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.234556 37.676917 252.76 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.228056 37.676389 250.54 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.220556 37.691389 240.19 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.208333 37.625 332.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.208333 37.694167 244 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.205333 37.726806 259.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.203333 37.635833 272.77 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.1825 37.687778 256.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.157222 37.737083 305.04 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.157222 37.737222 304.97 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.143306 37.737139 333.92 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.140556 37.736944 296.59 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.130278 37.703889 254.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.125833 37.712222 256.81 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.110528 37.662083 246.22 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.060861 37.725639 254.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.050556 37.678611 252.94 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.027222 37.690556 243.06 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.017222 37.678889 233.59 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.006111 37.687778 323.02 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -97.228611 37.681944 -49.76 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.248155 37.730082 426.73 358.79
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.247214 37.730063 426.92 358.93
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.244627 37.730039 427.55 359.33
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.148016 37.712853 414.27 155.22
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.144172 37.711449 415.31 155.26
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.143878 37.711342 415.36 155.25
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.143273 37.711121 415.39 155.68
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.140798 37.710255 414.14 155.83
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.138924 37.70958 414.39 155.21
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.137448 37.709033 411.71 155.16
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.136318 37.708624 411.9 155.41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.136017 37.708515 411.83 155.42
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.135218 37.708226 411.36 155.42
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.134765 37.708062 411.35 168.61
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.134406 37.708071 411.03 180.41
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.133238 37.708055 410.01 179.02
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.130863 37.708023 407.65 179.02
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.126031 37.707958 403.14 179.02
+
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22780077 37.67535888 413.0628 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22858896 37.67540714 413.8910 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22927377 37.67526817 414.9493 144.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22974708 37.67493592 413.6075 168.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23057008 37.67480494 415.6582 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23109307 37.67467682 413.0967 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23165435 37.67464018 411.3832 24.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23191688 37.67426465 413.5832 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23188563 37.67392033 414.7231 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23004698 37.67438445 412.9999 288.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23006167 37.67385734 413.4938 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23035817 37.67350134 413.7028 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23084340 37.67333815 412.2977 184.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23186686 37.67364372 412.5426 128.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23283384 37.67412245 407.6217 144.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23338880 37.67433150 409.9119 24.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23371201 37.67411762 407.8484 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23447485 37.67393456 405.8659 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23287276 37.67481854 410.9139 24.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23228718 37.67492683 413.9423 24.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23167967 37.67510161 413.0505 24.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23119594 37.67509582 413.3056 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23090839 37.67528362 414.1453 224.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23064360 37.67559959 415.0551 248.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23068219 37.67607480 414.5412 64.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22960141 37.67536406 414.6704 144.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23021988 37.67623515 416.1694 288.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23071081 37.67675580 416.5249 76.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23034550 37.67692673 418.1214 312.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23068439 37.67648044 415.3471 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23029738 37.67662283 417.2573 312.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23077758 37.67732213 417.8353 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23034400 37.67739361 418.1662 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23092053 37.67769431 417.3022 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23098330 37.67768465 417.0013 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23098433 37.67838736 417.2905 120.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23032038 37.67812695 418.0276 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23049413 37.67859412 418.3729 288.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23092810 37.67869215 418.5240 336.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23123000 37.67893928 417.4464 336.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23027543 37.67863773 416.9052 24.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22986293 37.67897030 414.1512 24.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23158181 37.67909471 415.1471 348.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23102088 37.67945510 415.4288 4.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23075045 37.68012619 415.4748 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23039673 37.68064253 415.7848 16.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22990494 37.68084090 417.0616 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22918605 37.68063888 416.7786 324.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.23038172 37.67943663 414.9558 352.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22918243 37.67951444 414.1818 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22893048 37.67987537 416.2518 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22888818 37.68030717 416.9929 288.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/Streetlamp2.xml -97.22839928 37.67939181 418.5513 144.0 0.0 -0.0

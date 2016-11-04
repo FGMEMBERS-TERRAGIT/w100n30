@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+
+ <path>ABIATerminal.ac</path>
+
+ <animation>
+  <name>yel01-on</name>
+  <object-name>yel01</object-name>
+  <object-name>yel09</object-name>
+  <object-name>yel17</object-name>
+ </animation>
+ <animation>
+  <name>yel01-off</name>
+  <object-name>yel01</object-name>
+  <object-name>yel09</object-name>
+  <object-name>yel17</object-name>
+ </animation>
+
+ <animation>
+  <name>yel02-on</name>
+  <object-name>yel02</object-name>
+  <object-name>yel10</object-name>
+  <object-name>yel18</object-name>
+ </animation>
+ <animation>
+  <name>yel02-off</name>
+  <object-name>yel02</object-name>
+  <object-name>yel10</object-name>
+  <object-name>yel18</object-name>
+ </animation>
+
+ <animation>
+  <name>yel03-on</name>
+  <object-name>yel03</object-name>
+  <object-name>yel11</object-name>
+  <object-name>yel19</object-name>
+ </animation>
+ <animation>
+  <name>yel03-off</name>
+  <object-name>yel03</object-name>
+  <object-name>yel11</object-name>
+  <object-name>yel19</object-name>
+ </animation>
+
+ <animation>
+  <name>yel04-on</name>
+  <object-name>yel04</object-name>
+  <object-name>yel12</object-name>
+  <object-name>yel20</object-name>
+ </animation>
+ <animation>
+  <name>yel04-off</name>
+  <object-name>yel04</object-name>
+  <object-name>yel12</object-name>
+  <object-name>yel20</object-name>
+ </animation>
+
+ <animation>
+  <name>yel05-on</name>
+  <object-name>yel05</object-name>
+  <object-name>yel13</object-name>
+  <object-name>yel21</object-name>
+ </animation>
+ <animation>
+  <name>yel05-off</name>
+  <object-name>yel05</object-name>
+  <object-name>yel13</object-name>
+  <object-name>yel21</object-name>
+ </animation>
+
+ <animation>
+  <name>yel06-on</name>
+  <object-name>yel06</object-name>
+  <object-name>yel14</object-name>
+  <object-name>yel22</object-name>
+  <object-name>yel04a</object-name>
+ </animation>
+ <animation>
+  <name>yel06-off</name>
+  <object-name>yel06</object-name>
+  <object-name>yel14</object-name>
+  <object-name>yel22</object-name>
+  <object-name>yel04a</object-name>
+ </animation>
+
+ <animation>
+  <name>yel07-on</name>
+  <object-name>yel07</object-name>
+  <object-name>yel15</object-name>
+  <object-name>yel23</object-name>
+ </animation>
+ <animation>
+  <name>yel07-off</name>
+  <object-name>yel07</object-name>
+  <object-name>yel15</object-name>
+  <object-name>yel23</object-name>
+ </animation>
+
+ <animation>
+  <name>yel08-on</name>
+  <object-name>yel08</object-name>
+  <object-name>yel16</object-name>
+  <object-name>yel03a</object-name>
+ </animation>
+ <animation>
+  <name>yel08-off</name>
+  <object-name>yel08</object-name>
+  <object-name>yel16</object-name>
+  <object-name>yel03a</object-name>
+ </animation>
+
+ <animation>
+  <name>floods-on</name>
+  <object-name>lightcone</object-name>
+ </animation>
+
+ <animation>
+  <name>reds-on</name>
+  <object-name>clearance</object-name>
+ </animation>
+ <animation>
+  <name>reds-off</name>
+  <object-name>clearance</object-name>
+ </animation>
+
+ <animation>
+  <type>select</type>
+  <object-name>reds-on</object-name>
+  <object-name>reds-off</object-name>
+  <object-name>floods-on</object-name>
+  <object-name>yel01-on</object-name>
+  <object-name>yel01-off</object-name>
+  <object-name>yel02-on</object-name>
+  <object-name>yel02-off</object-name>
+  <object-name>yel03-on</object-name>
+  <object-name>yel03-off</object-name>
+  <object-name>yel04-on</object-name>
+  <object-name>yel04-off</object-name>
+  <object-name>yel05-on</object-name>
+  <object-name>yel05-off</object-name>
+  <object-name>yel06-on</object-name>
+  <object-name>yel06-off</object-name>
+  <object-name>yel07-on</object-name>
+  <object-name>yel07-off</object-name>
+  <object-name>yel08-on</object-name>
+  <object-name>yel08-off</object-name>
+  <condition>
+   <greater-than>
+    <property>/sim/time/sun-angle-rad</property>
+    <value>1.57</value>
+   </greater-than>
+  </condition>
+ <enable-hot type="bool">false</enable-hot>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>reds-on</object-name>
+  <object-name>reds-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.125</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel01-on</object-name>
+  <object-name>yel01-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel02-on</object-name>
+  <object-name>yel02-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel03-on</object-name>
+  <object-name>yel03-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel04-on</object-name>
+  <object-name>yel04-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel05-on</object-name>
+  <object-name>yel05-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel06-on</object-name>
+  <object-name>yel06-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel07-on</object-name>
+  <object-name>yel07-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+ <animation>
+  <type>timed</type>   
+  <object-name>yel08-on</object-name>
+  <object-name>yel08-off</object-name>
+  <use-personality type="bool">true</use-personality>
+  <branch-duration-sec>
+   <random>
+    <min>0.75</min>
+    <max>1.25</max>
+   </random>
+  </branch-duration-sec>
+  <branch-duration-sec>
+   <random>
+    <min>0.1</min>
+    <max>0.2</max>
+   </random>
+  </branch-duration-sec>
+ </animation>
+
+</PropertyList>

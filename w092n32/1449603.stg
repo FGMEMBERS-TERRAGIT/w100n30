@@ -1,0 +1,17 @@
+OBJECT_SHARED Models/Power/coolingtower.xml -91.049167 32.004167 67.3 180
+OBJECT_SHARED Models/Power/coolingtower.xml -91.045278 32.01 89.93 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -91.245833 32.068333 -144.63 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -91.051111 32.020833 -78.94 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -91.048889 32.001111 -65.52 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -91.048333 32.0075 -378.16 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.042331 32.000157 47.19 266.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.042246 32.002291 51.22 268.05
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.042238 32.002487 49.2 268.05
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.042099 32.005983 39.53 268.07
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.041994 32.008623 48.41 248.05
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.038252 32.012152 31.86 228.05
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.036908 32.01342 36.7 227.96
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.019016 32.030191 62.06 227.89
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.014911 32.034044 44.89 227.91
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.012512 32.036296 43.42 227.96
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -91.000106 32.047979 76.57 229.12

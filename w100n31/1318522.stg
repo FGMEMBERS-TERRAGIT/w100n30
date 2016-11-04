@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -99.319167 31.93 -9.13 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.282391 31.875145 468.67 267.69
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.282304 31.876883 472.36 267.78
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.282208 31.879216 473.74 267.91
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.281978 31.884339 485.54 267.65
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.281569 31.89227 460.15 267.5
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.280397 31.915054 473.95 267.49
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.280289 31.917142 476.61 267.49
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.280199 31.918891 480.02 267.5
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.279578 31.930949 503.61 253.73
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.273981 31.939163 500.02 239.96
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.272404 31.941478 502.14 239.97
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.265781 31.9512 511.92 239.97
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.258402 31.96203 507.18 239.97
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.251235 31.972551 503.39 239.98

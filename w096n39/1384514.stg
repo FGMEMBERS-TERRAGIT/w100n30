@@ -1,0 +1,42 @@
+# osm2city_Douglas
+# do not edit below this line
+# Last Written 12/01/14 19:57:28
+#
+OBJECT_STATIC Douglascity0620.xml -95.44414 39.00426 337.83 0
+OBJECT_STATIC Douglascity0822.xml -95.39804 39.04029 294.30 0
+OBJECT_STATIC Douglascity0922.xml -95.37498 39.04029 314.83 0
+OBJECT_STATIC Douglascity1220.xml -95.30582 39.00426 301.76 0
+OBJECT_STATIC Douglascity1320.xml -95.28277 39.00426 259.67 0
+OBJECT_STATIC Douglascity1321.xml -95.28277 39.02228 261.56 0
+OBJECT_STATIC Douglascity1420.xml -95.25971 39.00426 271.89 0
+# END osm2city_Douglas
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.485556 39.018611 220.68 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.4635 39.112861 203.81 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.271111 39.004167 163.41 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -95.261944 39.056944 162.41 180
+OBJECT_SHARED Models/Communications/radio-tall.xml -95.449972 39.039167 -74.89 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.269989 39.009486 -137.28 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.269856 39.009048 -137.28 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.269722 39.008611 -136.09 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.269589 39.008174 -134.28 180
+OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.269455 39.007737 -132.35 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.49849 39.001019 340.27 156.14
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.497539 39.000669 338.17 154.22
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.497364 39.000602 337.78 153.66
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.493694 39.07385 261.01 2.99
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.483265 39.074356 260.16 3.58
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.464433 39.075271 258.41 3.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.462767 39.075352 258.35 3.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.452329 39.075747 256.94 2.8
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.448774 39.075882 258.03 355.4
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.425202 39.071988 254.61 348.01
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.421105 39.071313 254.75 348.01
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.407646 39.069093 253.13 347.9
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.407384 39.069049 253.26 347.8
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.40708 39.068998 253.77 347.9
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.395148 39.067026 255.83 347.97
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.394635 39.066941 255.78 347.78
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.38387 39.065103 256.52 347.61
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.381958 39.064777 256 347.6
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.377274 39.063976 256.57 347.58
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.375251 39.06363 255.93 347.58

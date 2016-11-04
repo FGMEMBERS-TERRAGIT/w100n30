@@ -1,0 +1,220 @@
+# osm2city_Sedgwick
+# do not edit below this line
+# Last Written 12/01/14 18:29:44
+#
+OBJECT_STATIC Sedgwickcity4774.xml -97.45177 37.67359 410.79 0
+OBJECT_STATIC Sedgwickcity4873.xml -97.42910 37.65557 403.92 0
+OBJECT_STATIC Sedgwickcity4874.xml -97.42910 37.67359 412.42 0
+OBJECT_STATIC Sedgwickcity4973.xml -97.40642 37.65557 399.90 0
+OBJECT_STATIC Sedgwickcity4974.xml -97.40642 37.67359 401.26 0
+OBJECT_STATIC Sedgwickcity5178.xml -97.36107 37.74566 407.16 0
+OBJECT_STATIC Sedgwickcity5274.xml -97.33840 37.67359 398.90 0
+OBJECT_STATIC Sedgwickcity5275.xml -97.33840 37.69161 405.40 0
+OBJECT_STATIC Sedgwickcity5373.xml -97.31572 37.65557 395.50 0
+OBJECT_STATIC Sedgwickcity5374.xml -97.31572 37.67359 398.67 0
+OBJECT_STATIC Sedgwickcity5375.xml -97.31572 37.69161 400.41 0
+OBJECT_STATIC Sedgwickcity5377.xml -97.31572 37.72764 407.17 0
+OBJECT_STATIC Sedgwickcity5472.xml -97.29304 37.63755 406.61 0
+OBJECT_STATIC Sedgwickcity5473.xml -97.29304 37.65557 403.62 0
+OBJECT_STATIC Sedgwickcity5474.xml -97.29304 37.67359 413.90 0
+OBJECT_STATIC Sedgwickcity5475.xml -97.29304 37.69161 423.72 0
+OBJECT_STATIC Sedgwickcity5476.xml -97.29304 37.70963 419.85 0
+OBJECT_STATIC Sedgwickcity5478.xml -97.29304 37.74566 415.46 0
+OBJECT_STATIC Sedgwickcity5572.xml -97.27037 37.63755 422.33 0
+OBJECT_STATIC Sedgwickcity5573.xml -97.27037 37.65557 402.85 0
+OBJECT_STATIC Sedgwickcity5574.xml -97.27037 37.67359 418.32 0
+OBJECT_STATIC Sedgwickcity5575.xml -97.27037 37.69161 422.26 0
+# END osm2city_Sedgwick
+OBJECT_SHARED Models/Airport/ils.xml -97.446114 37.637975 398.78 342
+OBJECT_SHARED Models/Airport/ils.xml -97.436311 37.659397 404.7 161.09
+OBJECT_SHARED Models/Airport/ils.xml -97.427894 37.639256 400.49 19.93
+OBJECT_SHARED Models/Airport/ils.xml -97.423528 37.645178 400.63 341.11
+OBJECT_SHARED Models/Airport/ils.xml -97.264075 37.635958 414.73 168.6
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.470417 37.666917 250.67 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.466472 37.738639 265.51 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.461667 37.663056 254.32 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.445556 37.681667 236.16 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.442778 37.654444 219.95 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.420556 37.711667 273.76 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.4205 37.711583 273.76 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.408639 37.663056 239.09 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.408528 37.702667 240.64 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.406111 37.639611 248.98 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.381944 37.691944 293.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.381944 37.693611 293.74 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.353056 37.733889 251.14 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.3525 37.734444 251.33 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.351667 37.733889 251.44 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.351389 37.734167 251.52 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.351111 37.735278 357.94 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.350833 37.734444 251.76 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.344167 37.683333 264.33 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.338639 37.698278 264.79 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.336111 37.648889 240.88 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.333611 37.735833 312.76 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.331111 37.7025 242.72 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.330278 37.725278 322.58 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.330028 37.728889 326.53 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.323056 37.723056 268.57 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.319722 37.698056 298.45 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.318333 37.718056 349.97 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.314444 37.694444 277.17 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.290278 37.719722 281.91 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.275583 37.724222 319.28 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -97.258944 37.658528 233.91 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -97.428683 37.639314 400.67 180
+OBJECT_SHARED Models/Communications/vordme_1.xml -97.41745 37.664456 398.52 180
+OBJECT_SHARED Models/Airport/marker.xml -97.449397 37.627631 400.18 180
+OBJECT_SHARED Models/Airport/marker.xml -97.447136 37.632539 400.7 180
+OBJECT_SHARED Models/Airport/marker.xml -97.400275 37.737947 403.44 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -97.337222 37.687778 -15.62 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -97.339167 37.693056 -34.97 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -97.340278 37.686944 -2.7 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -97.335 37.6875 -18.29 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -97.339167 37.694167 -44.26 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -97.328333 37.710556 -33.81 180
+OBJECT_SHARED Models/Commercial/generic_skyscraper_09.ac -97.337222 37.686667 -21.76 180
+OBJECT_SHARED Models/Airport/localizer.xml -97.447344 37.632078 400.66 289.92
+OBJECT_SHARED Models/Airport/localizer.xml -97.432614 37.664261 403.15 109.92
+OBJECT_SHARED Models/Airport/localizer.xml -97.416592 37.663925 397.77 109.94
+OBJECT_SHARED Models/Airport/localizer.xml -97.263761 37.642272 414.54 102.42
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.254133 37.732681 420.66 275.1
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.254116 37.737293 416.44 89.88
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.254115 37.7376 416.18 89.94
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.253976 37.732002 421.44 100.59
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.253621 37.723617 425.93 270.02
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.253607 37.723011 425.29 91.04
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.253569 37.725976 427.76 89.27
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.253561 37.726766 427.36 89.56
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.253529 37.730151 423.77 275.19
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.251365 37.730124 425.06 359.07
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.250197 37.730109 425.1 359.06
+
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.31980449 37.74836927 406.2435 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.31865290 37.74583525 407.2699 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.32025273 37.74717835 405.5993 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.32013371 37.74548338 409.0569 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.31824702 37.74408371 405.7547 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.31965321 37.74328763 406.4421 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.31610922 37.74397166 410.4307 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.31423659 37.74324752 412.0273 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.31194213 37.74379989 412.0315 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.30955990 37.74318533 410.8260 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/KSFO_light.xml -97.30824911 37.74388958 410.3490 0.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37665773 37.73403411 407.5745 228.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38000729 37.73150224 407.6227 204.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37840892 37.73268063 407.0887 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37936615 37.73196151 406.9956 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37882038 37.73237370 406.4726 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37774416 37.73317670 405.7441 200.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37728078 37.73353294 406.6685 212.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37741373 37.73397955 405.4675 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38045792 37.73171259 407.1324 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37864696 37.73306168 406.7983 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37983095 37.73217719 407.1480 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37913576 37.73269178 407.1473 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37816716 37.73341917 406.3368 80.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.37768257 37.73377778 405.9998 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38080795 37.73144408 407.3305 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38130795 37.73105602 407.3861 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38191672 37.73056786 406.5346 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38041017 37.73119404 405.5890 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38099086 37.73073126 404.9777 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38162134 37.73020411 406.1788 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38262092 37.72989654 405.4624 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38238286 37.72946198 406.0462 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38323906 37.72927571 402.4539 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38280492 37.72903716 406.1711 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38373730 37.72873695 403.1566 88.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38332854 37.72847770 406.4858 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38435156 37.72805673 404.0774 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38390556 37.72785680 406.0640 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38493064 37.72746240 404.9291 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38459673 37.72714099 404.5081 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38549744 37.72685998 404.9196 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38514488 37.72656708 404.1327 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38601324 37.72631048 403.9457 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38571461 37.72595282 403.7091 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38717008 37.72508251 403.1402 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38681601 37.72477367 403.0777 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38781692 37.72441816 402.1172 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38745823 37.72409347 403.0285 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38833234 37.72393921 402.9616 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38805131 37.72357216 404.0938 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38894443 37.72340553 404.3697 120.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38868655 37.72301953 405.0089 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38925586 37.72253138 405.9688 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38967529 37.72278098 405.0602 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.38998342 37.72188996 407.2953 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39040670 37.72214837 405.9362 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39081316 37.72117735 407.5439 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39128450 37.72140261 406.8512 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39139473 37.72070197 407.1705 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39179055 37.72096744 406.9988 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39251792 37.72034143 406.5791 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39210440 37.72009902 406.5228 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39309570 37.71984029 405.8574 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39285541 37.71945541 406.0177 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39396068 37.71910702 406.5178 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39367898 37.71873710 406.4907 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39472975 37.71844808 408.7664 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39444630 37.71806487 407.2278 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39576053 37.71753794 405.1651 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39528579 37.71734924 407.2402 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39649748 37.71691112 407.1359 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39622492 37.71652970 407.8065 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39740111 37.71610657 408.2262 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39699773 37.71582106 408.2153 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39806769 37.71551543 409.9641 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39775266 37.71516867 409.8509 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39907253 37.71463573 413.2658 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39884120 37.71420905 411.9275 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40028546 37.71358003 415.2751 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.39986552 37.71329450 414.9270 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40124313 37.71273119 411.0814 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40099345 37.71231003 411.0904 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40234954 37.71176378 407.4305 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40208374 37.71136907 407.1613 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40309829 37.71109620 407.1261 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40301792 37.71052190 406.0500 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40446817 37.70988914 404.1595 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40450664 37.70918693 406.4374 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40631431 37.70828447 402.3596 48.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40612466 37.70781413 403.4626 192.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40723279 37.70745547 402.6254 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40685085 37.70713559 405.1843 216.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40796092 37.70662876 402.9548 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40742656 37.70650835 404.7527 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40777045 37.70605739 402.3343 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40810547 37.70552381 402.8938 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40825721 37.70620893 403.1314 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40860170 37.70563155 404.8641 88.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40885309 37.70515771 405.0322 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40837540 37.70503356 405.7550 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40897128 37.70488779 404.5572 72.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40850003 37.70473380 403.4573 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40907550 37.70460002 403.5418 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40861558 37.70443263 401.2096 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40922958 37.70415787 403.0053 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40876231 37.70394345 398.8135 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40934308 37.70365501 402.4822 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40886942 37.70344323 402.3337 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40944333 37.70316411 402.4321 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40893774 37.70297613 405.5357 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40947162 37.70256826 402.4567 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40897244 37.70244702 404.3521 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40948441 37.70186198 402.2658 120.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40949059 37.70105408 402.8729 120.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40948439 37.69999975 405.1341 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40946871 37.69883181 404.1788 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40895901 37.70092910 402.9556 276.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40894763 37.70000417 405.4494 296.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40895493 37.69878198 405.3452 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40947229 37.69790783 404.1521 120.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40894610 37.69775392 403.0030 264.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40945152 37.69730350 404.3509 96.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40893532 37.69722550 403.0052 272.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40944666 37.69661246 403.3138 120.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40892309 37.69633877 403.3640 240.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40944256 37.69521671 403.1734 120.0 0.0 -0.0
+OBJECT_SHARED Models/StreetFurniture/angled-light-pole.xml -97.40892588 37.69513642 404.8875 240.0 0.0 -0.0

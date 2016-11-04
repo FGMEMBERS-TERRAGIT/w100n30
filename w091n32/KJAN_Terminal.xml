@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+    <path>KJAN_Terminal.ac</path>
+ 
+  <model>
+      <path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+      <offsets>
+         <x-m>-43.4466</x-m>
+         <y-m>16.9739</y-m>
+         <heading-deg>90.8</heading-deg>
+      </offsets>
+   </model>
+
+   <model>
+      <path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+      <offsets>
+         <x-m>164.0248</x-m>
+         <y-m>107.450</y-m>
+         <heading-deg>24</heading-deg>
+      </offsets>
+   </model>
+
+   <model>
+      <path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+      <offsets>
+         <x-m>146.2163</x-m>
+         <y-m>147.4487</y-m>
+         <heading-deg>24</heading-deg>
+      </offsets>
+   </model>
+
+
+   <model>
+      <path>Models/Airport/Jetway/jetway-737-ba.xml</path>
+      <offsets>
+         <x-m>123.2920</x-m>
+         <y-m>136.7390</y-m>
+         <heading-deg>204</heading-deg>
+      </offsets>
+   </model>
+
+</PropertyList>

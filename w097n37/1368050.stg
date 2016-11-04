@@ -1,0 +1,25 @@
+# osm2city_Greenwood
+# do not edit below this line
+# Last Written 03/02/15 01:12:55
+#
+OBJECT_STATIC Greenwoodcity3835.xml -96.29469 37.84696 363.27 0
+# END osm2city_Greenwood
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.327222 37.817806 316.3 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.319167 37.823333 257.2 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.318333 37.8225 289.3 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.304444 37.830833 174.29 180
+OBJECT_SHARED Models/Communications/radio-medium.xml -96.290556 37.791389 252.7 180
+
+OBJECT_SHARED Models/Airport/hanger-50fx50f-blue-01.xml -96.29009295 37.85210919 369.5509 348.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-t-single-white-02.xml -96.28974634 37.85238849 369.5772 168.5 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-40fx30f-02.xml -96.28956617 37.85230374 369.6234 80.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/kmtn-modular-hangar.ac -96.28973295 37.85268048 369.0 169.1 0.0 -0.0
+OBJECT_SHARED Models/Buildings/shop.ac -96.28993651 37.85177241 368.4659 258.9 0.0 -0.0
+OBJECT_SHARED Models/Buildings/weapshop.ac -96.28983030 37.85175529 369.6621 79.1 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-40fx30f-02.xml -96.28994085 37.85061493 369.3231 352.0 0.0 -0.0
+OBJECT_SHARED Models/Buildings/hosshop.ac -96.28992653 37.85030980 368.7197 352.0 0.0 -0.0
+OBJECT_SHARED Models/Buildings/hosshop.ac -96.28994199 37.85022191 368.5841 352.0 0.0 -0.0
+OBJECT_SHARED Models/Buildings/hosshop.ac -96.29000800 37.84994993 367.8172 352.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/hanger-42fx42f-tan-01.xml -96.28967269 37.85047703 369.3668 84.0 0.0 -0.0
+
+
