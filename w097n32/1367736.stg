@@ -142,3 +142,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.848889 32.9975 206.26 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.848086 32.956645 182.92 269.76
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.848049 32.968926 177.82 271.83
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -96.848027 32.968348 178.29 270.79
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/fboModern1.ac -96.83492 32.96993 194.07 20.19
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -96.83837 32.96748 195.53 269.38
+# END dsf2stg
