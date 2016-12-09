@@ -230,3 +230,10 @@ OBJECT_SHARED Models/Power/Transmission_25m_Steel_Triple.ac -93.350063 38.304654
 OBJECT_STATIC USA_MO_Warsaw_WaterTower.ac -93.36926 38.255134 244.42 160
 OBJECT_STATIC KRAW_Terminal.ac -93.343443 38.347178 281.19 177
 OBJECT_STATIC USA_MO_TrumanDam.ac -93.404772 38.262291 201.01 121
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -93.34233 38.34755 283.08 0
+OBJECT_SHARED Models/StreetFurniture/trash-container.ac -93.34291 38.34727 282.08 178.11
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.34372 38.34767 281.00 87.25
+# END dsf2stg
