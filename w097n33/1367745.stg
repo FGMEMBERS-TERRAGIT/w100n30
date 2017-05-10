@@ -9,3 +9,4 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -96.575556 33.033333 55.61 
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.574722 33.032778 55.86 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.574722 33.033611 57.11 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.53 33.019444 23.27 180
+OBJECT_SHARED Models/Industrial/water-tower.ac -96.582141 33.009473 163.83 0
