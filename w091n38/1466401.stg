@@ -61,3 +61,4 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -90.605324 38.622253 179.19 10.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -90.602224 38.622753 167.46 9.38
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -90.590238 38.623918 176.05 7.1
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -90.580623 38.624853 186.29 7.1
+OBJECT_STATIC Colossus_Wheel.xml -90.6763834 38.5146403 176.61 255
