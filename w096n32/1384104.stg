@@ -8,6 +8,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -95.795389 32.714778 0.21 1
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.899167 32.628056 -277.97 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.898056 32.627222 -267.33 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.8325 32.692222 -295.79 180
+OBJECT_SHARED Models/Industrial/Industrial55x35.ac -95.9832053 32.6880682 159.47 192
+OBJECT_SHARED Models/Industrial/Industrial55x35.ac -95.9830634 32.6874833 159.2 12
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.975381 32.746215 137 106.14
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.973614 32.741079 133.75 106.14
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.972704 32.738435 134.1 106.14
@@ -68,3 +70,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.774672 32.725421 137.84 164.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.767783 32.72382 134.06 164.55
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.763938 32.722926 128.14 164.55
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.755941 32.721067 128.63 164.56
+OBJECT_SHARED Models/Commercial/Office26x16.ac -95.9832317 32.6812759 155.16 180
+OBJECT_SHARED Models/Aircraft/Cessna172_red.xml -95.9835742 32.6813243 155.28 88
+OBJECT_SHARED Models/Aircraft/Cessna172_yellow.xml -95.9835787 32.6811305 155.15 89.1
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac -95.984932 32.6824475 155.05 0
+OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac -95.9848845 32.6820942 154.9 180.6
+OBJECT_SHARED Models/Airport/Hangar_30_18.ac -95.9850514 32.6809135 153.86 90.3
+OBJECT_SHARED Models/Airport/Hangar_22x18m.ac -95.9848879 32.6804936 153.73 271.6

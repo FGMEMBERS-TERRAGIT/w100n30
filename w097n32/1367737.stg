@@ -25,3 +25,8 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -96.6275 32.911667 3.87 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.537056 32.988028 13.4 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_04.ac -96.713611 32.985556 -226.26 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_07.ac -96.710278 32.979722 -230.18 180
+OBJECT_SHARED Models/Power/Transmission_30m_Steel_Single.ac -96.5071725 32.9211126 126.6 170
+OBJECT_SHARED Models/Power/Transmission_30m_Steel_Single.ac -96.505538 32.9213341 126.9 170
+OBJECT_SHARED Models/Power/Transmission_30m_Steel_Single.ac -96.5039059 32.9216516 126.59 170
+OBJECT_SHARED Models/Power/Transmission_30m_Steel_Single.ac -96.5023788 32.921975 126.59 170
+OBJECT_SHARED Models/Power/Transmission_30m_Steel_Single.ac -96.5006089 32.9223612 126.42 170
