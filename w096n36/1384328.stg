@@ -83,7 +83,6 @@ OBJECT_SHARED Models/Airport/marker.ac -95.883819 36.177344 188.85 180
 OBJECT_SHARED Models/Airport/marker.ac -95.883328 36.183619 192 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -95.988056 36.144167 -219.65 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_01.xml -95.984722 36.144167 -214.06 180
-OBJECT_SHARED Models/Commercial/generic_skyscraper_02.ac -95.9025 36.193333 -281.54 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -95.992222 36.153889 -186.59 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -95.886944 36.184167 -282.5 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_03.ac -95.879167 36.192222 -279.38 180

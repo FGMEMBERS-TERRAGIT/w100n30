@@ -225,7 +225,6 @@ OBJECT_SHARED Models/Power/generic_pylon_200m.ac -96.864444 32.865833 143.48 180
 OBJECT_SHARED Models/Power/generic_pylon_200m.ac -96.852778 32.865833 147.91 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -96.853889 32.865833 147.8 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -96.849722 32.865833 150.25 180
-OBJECT_SHARED Models/Power/generic_pylon_100m.ac -96.842222 32.839444 145.13 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -96.826667 32.78 126.62 180
 OBJECT_SHARED Models/Power/generic_pylon_100m.ac -96.820278 32.783333 124.24 180
 OBJECT_SHARED Models/Airport/localizer.xml -96.866456 32.853908 134.85 45.75
