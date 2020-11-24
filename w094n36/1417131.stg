@@ -310,3 +310,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.074947 36.740161 236.33 18.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.04909 36.74789 323.95 12.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.048744 36.747911 324.04 12.22
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.048154 36.748084 321.66 20.6
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -93.23033 36.62572 281.69 151.78
+# END dsf2stg

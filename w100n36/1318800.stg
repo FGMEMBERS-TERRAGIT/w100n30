@@ -6,3 +6,8 @@ OBJECT_SHARED Models/Communications/vordme_1.xml -99.880122 36.343733 738.96 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.881602 36.260923 695.17 359.56
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.878036 36.260901 706.32 359.68
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -99.873912 36.260889 697.17 359.79
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -99.77308 36.29427 0.00 0
+# END dsf2stg

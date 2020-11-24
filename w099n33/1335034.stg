@@ -18,3 +18,12 @@ OBJECT_SHARED Models/Airport/marker.ac -98.480256 33.963822 306.16 180
 OBJECT_SHARED Models/Airport/marker.ac -98.454581 33.910653 285.2 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_06.ac -98.492222 33.910833 -137.59 180
 OBJECT_SHARED Models/Airport/localizer.xml -98.483233 33.97725 300.61 248.33
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -98.48942 33.96604 310.94 220
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -98.48931 33.96593 304.39 220
+OBJECT_SHARED Models/lib/fboModern1.ac -98.48903 33.96561 304.41 40
+OBJECT_SHARED Models/lib/LongRow.ac -98.48866 33.96405 304.25 40
+OBJECT_SHARED Models/lib/vintage-tower-hangar.ac -98.48771 33.96485 304.97 40
+# END dsf2stg

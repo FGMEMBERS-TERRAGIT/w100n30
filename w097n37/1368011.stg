@@ -2,3 +2,12 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -96.226 37.198333 214.05 18
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.178889 37.131944 108.39 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.1775 37.131667 144.62 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -96.176861 37.132361 148.98 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.18604 37.14780 0.00 357.66
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.18609 37.14801 305.46 357.66
+OBJECT_SHARED Models/lib/shed8x10.ac -96.18683 37.14801 305.52 31.48
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.18609 37.14797 305.21 357.66
+OBJECT_SHARED Models/lib/garage-small-white.ac -96.18609 37.14797 305.52 357.66
+# END dsf2stg

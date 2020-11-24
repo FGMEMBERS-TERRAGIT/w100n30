@@ -60,3 +60,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.006928 37.245992 258.51 140.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.00456 37.244445 259.94 140.64
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.003245 37.243587 261.04 140.65
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.00024 37.241625 262.38 141.43
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.04275 37.16422 0.00 270
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -95.04228 37.16421 252.78 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.04223 37.16383 252.79 270.12
+OBJECT_SHARED Models/lib/SmHangar.ac -95.04297 37.16369 252.72 180
+OBJECT_SHARED Models/lib/SmHangar.ac -95.04291 37.16369 252.57 180
+OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml -95.04315 37.16432 252.58 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -95.04315 37.16385 252.78 0
+OBJECT_SHARED Models/lib/prop_a.ac -95.04254 37.16354 252.64 179.19
+# END dsf2stg

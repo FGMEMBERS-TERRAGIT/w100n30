@@ -63,3 +63,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.768152 31.024369 90.89 340.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.763807 31.023065 110.92 340.71
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.753446 31.019958 96.47 340.7
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.751621 31.01941 87.57 340.7
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/coal_pile.ac -93.80401 31.11706 0.00 90
+# END dsf2stg

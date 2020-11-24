@@ -2,3 +2,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -98.461694 35.522944 395.73
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.461667 35.521389 398.78 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.313778 35.592167 368.18 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -98.258333 35.534917 375 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -98.34359 35.50793 0.00 180
+OBJECT_SHARED Models/lib/HorizTanks2.ac -98.34364 35.50764 479.35 90.27
+# END dsf2stg

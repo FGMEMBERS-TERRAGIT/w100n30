@@ -7,3 +7,17 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -97.557778 35.643333 238.28
 OBJECT_SHARED Models/Communications/radio-medium.xml -97.531111 35.712222 169.9 180
 OBJECT_SHARED Models/Airport/marker.ac -97.647556 35.626025 330.63 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -97.581389 35.630556 -134.13 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.54190 35.72802 0.00 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.54182 35.72783 324.56 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.54152 35.72738 324.41 248.2
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.54153 35.72770 324.33 90
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.54201 35.72752 324.77 0
+OBJECT_SHARED Models/Trees/billboard-tree.xml -97.54206 35.72772 323.55 0
+OBJECT_SHARED Models/lib/propane-tank.ac -97.54206 35.72811 323.70 270
+OBJECT_SHARED Models/lib/propane-tank.ac -97.54206 35.72813 324.39 270
+OBJECT_SHARED Models/lib/farm19x12.ac -97.54166 35.72764 324.39 72.27
+OBJECT_SHARED Models/lib/prop_a.ac -97.54139 35.72843 324.25 272.05
+# END dsf2stg

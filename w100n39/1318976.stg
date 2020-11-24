@@ -3,3 +3,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -99.872139 39.070556 661.57
 OBJECT_SHARED Models/Communications/radio-medium.xml -99.871389 39.072222 640.58 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -99.869167 39.062778 635.47 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -99.858722 39.015556 679.18 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -99.89111 39.01277 0.00 35.07
+OBJECT_SHARED Models/lib/shed10x50.ac -99.89054 39.01294 742.88 124.51
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -99.89122 39.01316 743.89 318.37
+# END dsf2stg

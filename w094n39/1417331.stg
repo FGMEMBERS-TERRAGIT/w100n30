@@ -80,3 +80,14 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.142866 39.755451 223.53 335.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.141135 39.754833 220.57 334.33
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.131014 39.750966 232.39 332.45
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.128764 39.75002 233.13 331.31
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/stack_of_cones.ac -93.01511 39.76694 0.00 311.404
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.01508 39.76698 250.50 180.23
+OBJECT_SHARED Models/lib/garage-small-white.ac -93.01514 39.76688 250.62 270.35
+OBJECT_SHARED Models/lib/handicap-sign.ac -93.01519 39.76728 250.50 359.75
+OBJECT_SHARED Models/lib/handicap-sign.ac -93.01520 39.76725 251.22 0
+OBJECT_SHARED Models/lib/lamp10m.xml -93.01476 39.76721 251.22 137.17
+OBJECT_SHARED Models/lib/lamp10m.xml -93.01511 39.76703 250.13 171.95
+# END dsf2stg

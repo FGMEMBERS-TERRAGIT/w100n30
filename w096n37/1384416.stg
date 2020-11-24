@@ -76,3 +76,18 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.774517 37.542132 307.07 337.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.764537 37.538871 306.85 337.47
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.761048 37.537715 307.27 337.57
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -95.753555 37.535293 310.56 337.74
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83627 37.57779 0.00 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83627 37.57783 266.62 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83628 37.57760 266.62 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83628 37.57763 266.65 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83626 37.57725 266.65 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83626 37.57729 266.72 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83626 37.57733 266.71 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83619 37.57692 266.71 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83619 37.57696 266.74 180
+OBJECT_SHARED Models/lib/garage-small-white.ac -95.83619 37.57699 266.73 180
+OBJECT_SHARED Models/lib/SmHangar.ac -95.83623 37.57627 266.73 359.14
+# END dsf2stg

@@ -8,3 +8,10 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -94.345278 37.843333 123.16
 OBJECT_SHARED Models/Communications/radio-medium.xml -94.342333 37.849417 123.26 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -94.312028 37.835722 81.59 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -94.273056 37.780833 143.56 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -94.30583 37.85642 0.00 199.22
+OBJECT_SHARED Models/lib/LongRow.ac -94.30616 37.85648 265.17 107.93
+OBJECT_SHARED Models/lib/fboModern1.ac -94.30566 37.85602 264.85 19.22
+# END dsf2stg

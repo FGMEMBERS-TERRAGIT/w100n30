@@ -37,3 +37,11 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.685592 32.146974 57.4 293.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.681919 32.139754 62.22 293.3
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.680941 32.137831 63.33 293.39
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.675249 32.126733 50.32 293.47
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -92.73176 32.20602 0.00 90
+OBJECT_SHARED Models/lib/lamp10m.xml -92.73129 32.20516 71.62 0
+OBJECT_SHARED Models/lib/office16x4n.ac -92.73166 32.20546 72.11 1.8476
+OBJECT_SHARED Models/lib/4container-office.ac -92.73149 32.20518 72.02 0
+# END dsf2stg

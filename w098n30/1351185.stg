@@ -104,3 +104,9 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.502343 30.34783 161.62 340.4
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.501175 30.347471 154.91 342.55
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.500321 30.257578 166.36 330.34
 OBJECT_STATIC Texas_StCapital.ac -97.740556 30.274722 161.63 72
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office32x25n.ac -97.73469 30.27411 0.00 73
+OBJECT_SHARED Models/lib/industrial13x24.ac -97.73330 30.27331 152.73 342
+# END dsf2stg

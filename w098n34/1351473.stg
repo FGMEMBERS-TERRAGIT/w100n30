@@ -7,3 +7,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -97.594722 34.833333 140.2 
 OBJECT_SHARED Models/Communications/radio-tall.xml -97.594194 34.754139 -37.46 180
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.738154 34.85399 332.52 0.42
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -97.733362 34.854017 339.83 0.39
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/hangarUL10x30.ac -97.58586 34.85100 0.00 344.09
+OBJECT_SHARED Models/lib/industrial13x24.ac -97.58710 34.84989 294.43 348.84
+# END dsf2stg

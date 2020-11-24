@@ -4,3 +4,12 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -95.4375 37.775833 185.24 1
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.423056 37.792778 141.13 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.326111 37.7975 181.49 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.431667 37.799167 -125.22 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.38238 37.87489 0.00 270
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -95.38238 37.87492 309.07 270
+OBJECT_SHARED Models/lib/cars4.ac -95.38190 37.87452 309.07 90
+OBJECT_SHARED Models/lib/LongRow.ac -95.38238 37.87376 309.50 92
+OBJECT_SHARED Models/lib/MedHangar.ac -95.38248 37.87276 308.95 275
+# END dsf2stg

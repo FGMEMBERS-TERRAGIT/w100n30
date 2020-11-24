@@ -27,3 +27,10 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.262629 37.137656 328.02 356.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.256586 37.135743 328.66 356.59
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.256545 37.137365 329.38 356.5
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -94.250215 37.13705 329.71 356.45
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -94.49393 37.15112 289.94 0
+OBJECT_SHARED Models/lib/office32x25.ac -94.49421 37.15134 293.68 179.98
+OBJECT_SHARED Models/Airport/tower_small_airfield.xml -94.49432 37.15107 293.63 0
+# END dsf2stg

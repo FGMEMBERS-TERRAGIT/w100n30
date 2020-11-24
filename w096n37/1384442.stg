@@ -8,3 +8,9 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -95.37275 37.957806 231.55 
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.371278 37.956722 256.31 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -95.296639 37.939583 248.41 180
 OBJECT_SHARED Models/Industrial/generic_chimney_01.xml -95.401111 37.909444 -122.04 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/LongRow.ac -95.38215 37.87591 309.53 90
+OBJECT_SHARED Models/lib/MedHangar.ac -95.38210 37.87529 308.39 90
+# END dsf2stg

@@ -1,3 +1,9 @@
 OBJECT_SHARED Models/Communications/radio-medium.xml -91.105 38.596944 1.31 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -91.033611 38.550833 51 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -91.000278 38.550278 89.26 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/lamp10m.xml -91.00002 38.59015 -1000.00 289.29
+OBJECT_SHARED Models/lib/lamp10m.xml -91.00010 38.59041 -1000.00 285.17
+# END dsf2stg

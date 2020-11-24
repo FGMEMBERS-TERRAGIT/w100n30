@@ -11,3 +11,8 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.899897 38.258592 243.12 339.
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.897328 38.257853 284.39 339.15
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.888311 38.255052 296.08 338.37
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -92.877667 38.251729 267.35 338.33
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/industrial13x24.ac -92.81248 38.26920 0.00 24.5
+# END dsf2stg

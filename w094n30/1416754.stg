@@ -138,3 +138,15 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.250406 30.852893 44.13 272.6
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.250379 30.84822 44.77 282.79
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.250379 30.848713 44.06 270.21
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac -93.250004 30.839761 55.96 176.15
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -93.33470 30.83271 0.00 89.78
+OBJECT_SHARED Models/lib/RampParkingStripe.xml -93.33470 30.83206 59.28 90.71
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.33438 30.83227 59.25 0.230003
+OBJECT_SHARED Models/Airport/Avgas_Pump.ac -93.33436 30.83132 59.33 318.53
+OBJECT_SHARED Models/lib/MedHangar.ac -93.33403 30.83230 59.28 90
+OBJECT_SHARED Models/lib/SmHangar.ac -93.33419 30.83147 59.40 317.63
+OBJECT_SHARED Models/lib/LongRow.ac -93.33471 30.83032 59.33 90
+OBJECT_SHARED Models/lib/SmHangar.ac -93.33409 30.83301 59.17 46.998
+# END dsf2stg

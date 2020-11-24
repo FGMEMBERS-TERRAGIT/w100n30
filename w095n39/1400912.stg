@@ -16,3 +16,13 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -94.750194 39.340111 151.18
 OBJECT_SHARED Models/Airport/marker.ac -94.851081 39.301964 231.44 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_05.ac -94.9125 39.369444 -259.22 180
 OBJECT_SHARED Models/Commercial/generic_skyscraper_08.ac -94.908611 39.360278 -260.54 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/MedHangar.ac -94.91721 39.36850 0.00 201.98
+OBJECT_SHARED Models/lib/MedHangar.ac -94.91740 39.36887 235.62 201.57
+OBJECT_SHARED Models/lib/SmHangar.ac -94.91779 39.36934 235.55 111.27
+OBJECT_SHARED Models/lib/LongRow.ac -94.91457 39.36306 235.66 111.75
+OBJECT_SHARED Models/lib/LongRow.ac -94.91503 39.36390 235.69 111.55
+OBJECT_SHARED Models/lib/SmHangar.ac -94.91567 39.36497 235.80 120.26
+# END dsf2stg

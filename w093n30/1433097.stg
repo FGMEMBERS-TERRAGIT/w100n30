@@ -20,3 +20,15 @@ OBJECT_SHARED Models/Communications/radio-medium.xml -92.538306 30.224417 -118.3
 OBJECT_SHARED Models/Communications/radio-medium.xml -92.537778 30.231278 -106.57 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -92.529167 30.200833 -44.3 180
 OBJECT_SHARED Models/Communications/radio-medium.xml -92.501389 30.235278 -97.01 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/office40x25.ac -92.67197 30.24025 0.00 133.91
+OBJECT_SHARED Models/Airport/Vehicle/generic-trailer-GPU.xml -92.67152 30.24028 4.93 91.11
+OBJECT_SHARED Models/lib/HorizTanks2.ac -92.66907 30.23844 5.00 134.33
+OBJECT_SHARED Models/lib/MedHangar.ac -92.66935 30.23888 5.67 135.56
+OBJECT_SHARED Models/lib/MedHangar.ac -92.67256 30.24090 5.56 225.26
+OBJECT_SHARED Models/lib/LongRow.ac -92.67000 30.23896 4.73 45.57
+OBJECT_SHARED Models/lib/LongRow.ac -92.67420 30.24086 5.44 45
+OBJECT_SHARED Models/lib/LongRow.ac -92.66997 30.23968 4.48 135.303
+# END dsf2stg
